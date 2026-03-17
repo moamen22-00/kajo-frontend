@@ -37,7 +37,7 @@ import StoreDetails from "./pages/StoreDetails/StoreDetails";
 import MyActivities from "./pages/MyActivities/MyActivities";
 
 // doctor pages
-import DoctorDashboard from "./components/Dashboard/DoctorDashboard";
+import DoctorDashboard from "./components/dashboard/DoctorDashboard";
 import DoctorAppointments from "./pages/doctor/DoctorAppointments";
 
 // store pages
