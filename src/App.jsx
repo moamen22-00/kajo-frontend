@@ -85,7 +85,7 @@ export default function App() {
       element: <AuthLayout />,
       children: [
         { index: true, element: <LandingPage /> },
-        { path: "login", element: <Login /> },
+        { path: "/login", element: <Login /> },
         { path: "register", element: <SignUp /> },
         { path: "forgot-password", element: <ForgetPassword /> },
         { path: "information", element: <InformationPage /> },
