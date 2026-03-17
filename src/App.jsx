@@ -41,10 +41,10 @@ import DoctorDashboard from "./components/dashboard/DoctorDashboard";
 import DoctorAppointments from "./pages/doctor/DoctorAppointments";
 
 // store pages
-import StoreDashboard from "./components/Dashboard/StoreDashboard";
+import StoreDashboard from "./components/dashboard/StoreDashboard";
 
 // shelter pages
-import ShelterDashboard from "./components/Dashboard/ShelterDashboard";
+import ShelterDashboard from "./components/dashboard/ShelterDashboard";
 
 // admin pages
 import AdminDashboard from "./pages/admin/AdminDashboard";
