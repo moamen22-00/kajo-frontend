@@ -5,7 +5,7 @@ import { Link, useNavigate, useLocation } from "react-router-dom";
 import { FaGlobe, FaLock, FaEye } from "react-icons/fa";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
-import { loginSchema } from "../../schema/loginSchema";
+import { loginSchema } from "../../schema/loginschema";
 import CustomInput from "../../components/CustomInput/CustomInput";
 import { useAuth } from "../../context/AuthContext";
 
